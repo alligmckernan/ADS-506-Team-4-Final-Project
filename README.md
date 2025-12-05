@@ -98,4 +98,4 @@ A Box-Cox transformation (λ ≈ -0.9) was tested but **rejected** because back-
 
 1. Clone this repository
 ```bash
-git clone https://github.com/alligmckernan/ADS-506-Team-4-Final-Project
+git clone https://github.com/alligmckernan/ADS-506-Team-4-Final-Project.git
